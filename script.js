@@ -1,5 +1,5 @@
 const PAYMENT_URL = "https://rzp.io/rzp/7Q10uRsD";
-const EBOOK_DOWNLOAD_URL = "https://drive.google.com/file/d/10wa_Zhaxva-TjcWbU9oSUAuj255sx1FM/view?usp=sharing";
+const EBOOK_DOWNLOAD_URL = "https://drive.google.com/file/d/1AlVby6YHat_XhtSPqeqPCRJW3sTCNE9f/view?usp=sharing";
 
 document.querySelectorAll('body *').forEach(el => {
   if (el.children.length === 0 && el.textContent.includes('AUTHOR/BRAND NAME')) {
